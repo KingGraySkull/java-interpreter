@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Teascript:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Teascript_jar</output-path>
+    <root id="archive" name="Teascript.jar">
+      <element id="module-output" name="Teascript" />
+    </root>
+  </artifact>
+</component>
